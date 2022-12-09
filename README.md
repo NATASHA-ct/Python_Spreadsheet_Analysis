@@ -1,7 +1,6 @@
-# Python_Spreadsheet_Analysis
+<h1> Python_Spreadsheet_Analysis </h2>
 
-This project uses Python to do very basic data analysis on a spreadsheet. The standard
-project will use csv file that contains fake sales data. 
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -29,7 +28,7 @@ project will use csv file that contains fake sales data.
 
 <!-- PROJECT DESCRIPTION -->
 
-# Python_Spreadsheet_Analysis
+## Python_Spreadsheet_Analysis
 
 This project uses Python to do very basic data analysis on a spreadsheet. The standard
 project will use csv file that contains fake sales data. 
